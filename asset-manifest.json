@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/imagedetector/static/css/main.4b2f225c.chunk.css",
+    "main.js": "/imagedetector/static/js/main.4ca53dc7.chunk.js",
+    "main.js.map": "/imagedetector/static/js/main.4ca53dc7.chunk.js.map",
+    "runtime-main.js": "/imagedetector/static/js/runtime-main.10be2ee7.js",
+    "runtime-main.js.map": "/imagedetector/static/js/runtime-main.10be2ee7.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/imagedetector/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.3799fe62.chunk.js": "/imagedetector/static/js/2.3799fe62.chunk.js",
+    "static/js/2.3799fe62.chunk.js.map": "/imagedetector/static/js/2.3799fe62.chunk.js.map",
+    "index.html": "/imagedetector/index.html",
+    "precache-manifest.6fd26c0bb0ffe5692c91455e60bd7089.js": "/imagedetector/precache-manifest.6fd26c0bb0ffe5692c91455e60bd7089.js",
+    "service-worker.js": "/imagedetector/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/imagedetector/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.4b2f225c.chunk.css.map": "/imagedetector/static/css/main.4b2f225c.chunk.css.map"
+  }
+}
