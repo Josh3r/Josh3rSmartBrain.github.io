@@ -5,7 +5,7 @@ const Rank = ({name,entries}) => {
     return(
         <div className='rankDisplay' style={{display:'flex', alignContent: 'center',justifyContent:'center', flexDirection:'column'}}>
             <div className='white f3'>
-                {`${name}, your current rank is...`}
+                {`${name}, your entry count is`}
             </div>
             <div className='white f1'><br></br>
                 {`${entries}`}
