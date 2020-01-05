@@ -36,7 +36,7 @@ class App extends Component {
   }
 // Recall that componentDidMount is a built-in function that fetches data after all components have been successfully dolled out
 componentDidMount() {
-  fetch('http://localhost:3000')
+  fetch('https://immense-wildwood-38455.herokuapp.com/')
   .then(response=>response.json())
   .then(data=>console.log(data))
 }
@@ -57,7 +57,7 @@ onImageSubmit = () => {
   app.models.predict(Clarifai.FACE_DETECT_MODEL,this.state.input).then(
     response => {
       if(response){
-        fetch('http://localhost:3000/image',{
+        fetch('https://immense-wildwood-38455.herokuapp.com/image',{
           method: 'put',
           headers: {'Content-Type':'application/json'},
           body: JSON.stringify({
